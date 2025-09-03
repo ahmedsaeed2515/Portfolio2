@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting1": "Welcome to my site",
+    "greeting2": "Hi, I'm Ahmed Saeed",
+    "greeting3": "Full-Stack Developer",
+    "greeting4": "Building Amazing Experiences",
+    "description": "A passionate full-stack developer with expertise in modern web technologies. I create scalable, user-friendly applications using React, Node.js, and cloud technologies. Always eager to learn and implement cutting-edge solutions.",
+    "cta": "Get In Touch",
+    "resume": "Download Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "experience": "Years Experience",
+    "projects": "Projects Completed",
+    "clients": "Happy Clients",
+    "skills": "Technical Skills",
+    "skillsDesc": "Here are the technologies I work with:",
+    "description": "I'm a dedicated full-stack developer with a passion for creating innovative web solutions. With years of experience in both frontend and backend development, I specialize in building scalable applications that deliver exceptional user experiences."
+  },
+  "portfolio": {
+    "title": "My Portfolio",
+    "subtitle": "Recent Projects",
+    "filter": {
+      "all": "All",
+      "web": "Web Apps",
+      "mobile": "Mobile",
+      "backend": "Backend"
+    },
+    "viewProject": "View Project",
+    "sourceCode": "Source Code"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's work together",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "email": "ahmedsaeed2515@gmail.com",
+      "phone": "+201128968983",
+      "location": "Remote / Available Worldwide"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "built": "Built with Next.js and TypeScript"
+  }
+}
